@@ -1,4 +1,4 @@
 jdk:
   - openjdk17
 install:
-  - ./gradlew :usbSerialForAndroid:publishToMavenLocal
+  - ./gradlew :javaarduinovision21a:publishToMavenLocal
